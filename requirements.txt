@@ -3,4 +3,4 @@ torchvision
 pillow
 flask
 tensorflow
-cv2
+opencv-python
